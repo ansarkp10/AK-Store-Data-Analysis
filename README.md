@@ -40,7 +40,7 @@ The dashboard helps visualize:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboards.png)
 
 ## Dataset
 The dataset contains:
